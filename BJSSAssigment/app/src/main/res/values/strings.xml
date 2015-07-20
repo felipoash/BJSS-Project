@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">BJSS Assignment</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="account_type">com.bjss.bjssassigment</string>
+
+
+    <string name="peas">The pea is most commonly the small spherical seed or the seed-pod of the pod fruit Pisum sativum.</string>
+    <string name="egg">Eggs are laid by female animals of many different species, including birds, reptiles, amphibians, and fish, and have been eaten by humans for thousands of years.</string>
+    <string name="milk">An opaque white fluid rich in fat and protein, secreted by female mammals for the nourishment of their young.</string>
+    <string name="bean">An edible seed, typically kidney-shaped, growing in long pods on certain leguminous plants.</string>
+
+    <string-array name="currency">
+        <item name="usd">Select a Currency</item>
+    </string-array>
+
+    <string-array name="paymentMethod">
+        <item name="">Bank Transfers</item>
+        <item name="">Cash on Delivery</item>
+        <item name="">Checks</item>
+        <item name="">Credit Cards</item>
+        <item name="">Debit Cards</item>
+        <item name="">Direct Debits</item>
+        <item name="">E-Wallets</item>
+        <item name="">Gift | Loyalty Card</item>
+        <item name="">Invoices</item>
+        <item name="">Mobile Carrier Billing</item>
+        <item name="">Prepaid Cards</item>
+        <item name="">Specials</item>
+    </string-array>
+</resources>
